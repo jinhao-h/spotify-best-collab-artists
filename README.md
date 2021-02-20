@@ -4,8 +4,17 @@ In this notebook, exploring a Spotify dataset from 1921-2020 with 160k+ Tracks f
 
 Check out https://blog.chartmetric.com/the-evolving-role-of-music-artist-collaborations/ for more info on the history and importance of collaborations.
 
-Results: The top 10 most popular collab artists are (in order): 
-[Wolfgang Amadeus Mozart, Lil Wayne, Kanye West, Snoop Dogg, Johann Sebastian Bach, Drake, JAY-Z, Nicki Minaj, 2Pac, Eminem]
+Results: The top 10 most popular collab artists are: 
+1. Wolfgang Amadeus Mozart
+2. Lil Wayne
+3. Kanye West
+4. Snoop Dogg
+5. Johann Sebastian Bach
+6. Drake
+7. JAY-Z
+8. Nicki Minaj
+9. 2Pac
+10. Eminem
 
 Most of the artists in the top 10 are known to make HipHop/Rapping style music, which is to be expected as this is the most popular genre in the recent years and is an industry that also thrives on collaborations.
 
