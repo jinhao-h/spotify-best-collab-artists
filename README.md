@@ -16,6 +16,6 @@ Results: The top 10 most popular collab artists are:
 9. 2Pac
 10. Eminem
 
-Most of the artists in the top 10 are known to make HipHop/Rapping style music, which is to be expected as this is the most popular genre in the recent years and is an industry that also thrives on collaborations.
+Most of the artists in the top 10 are known to make hiphop/rap styles of music, which is to be expected as this is the most popular genre in the recent years and is an industry that also thrives on collaborations.
 
-Surprisingly however, there are a few classical musicians, with Wolfgang Amadeus Mozart being the most popular collab artist beating out artists such as Lil Wayne aand Kanye West that are known for their hit songs with collaborations and using collabs to give recognition to smaller artists.
+Surprisingly however, there are a few classical musicians, with Wolfgang Amadeus Mozart being the most popular collab artist beating out artists such as Lil Wayne aand Kanye West that are known for their hit songs with collaborations and using collabs to give recognition to smaller artists. Analysing these results with historical context, this may be because the writing credits for many timeless classical songs from these artists are shared and thus marked as collaboration. While these insights are interesting in itself, one future addition to my analysis here could be filtering out/doing further feature engineering on the artists and their collaborators to ensure difference crediting styles for different genres (such as hiphop vs classical music) are accounted for.
