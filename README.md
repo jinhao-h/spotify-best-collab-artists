@@ -1,4 +1,4 @@
-In this notebook, exploring a Spotify dataset from 1921-2020 with 160k+ Tracks found on Kaggle to find the most popular/influential collaboration artists. This will be done by transforming the data into a network of artists connected by collaborations weighted by popularity.
+In this notebook, I explore a Spotify dataset from 1921-2020 with 160k+ Tracks found on Kaggle to find the most popular/influential collaboration artists. This will be done by transforming the data into a network of artists connected by collaborations weighted by popularity.
 
 "Collaboration is an artist's best friend in today's music economy. From widening an artist's audience to prolonging success, a rising tide really does lift all boats." This is known as the “collaboration phenomenon." Many artists also gain or give recognition through collaborations and features, and thus seeing the top artists grouped by popularity is one indication of their influence in the collaboration space.
 
